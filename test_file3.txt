@@ -1,1 +1,3 @@
 Another file to test and practice!
+
+Now updating this using Atom instead of the terminal....
