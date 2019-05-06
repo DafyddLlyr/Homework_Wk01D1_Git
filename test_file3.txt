@@ -1,3 +1,5 @@
 Another file to test and practice!
 
 Now updating this using Atom instead of the terminal....
+
+...and pulling back from GitHub using Atom now.
